@@ -10,7 +10,6 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-
 1. If you had Konsole installed by default, put the file into `~/.kde4/share/apps/konsole/` or `~/.kde/share/apps/konsole/`.
 If you installed manually, put the file into `.local/share/konsole/`.
 2. Open Konsole and select Settings -> Manage Profiles -> Edit Profile -> Appearance, then select Rosé Pine.
