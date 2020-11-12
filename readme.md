@@ -19,4 +19,4 @@ If you installed manually, put the file into `.local/share/konsole/`.
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![preview](https://i.imgur.com/eoqk1Hn.png)
+![Konsole with Rosé Pine](https://i.imgur.com/eoqk1Hn.png)
