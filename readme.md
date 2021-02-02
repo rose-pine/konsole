@@ -17,7 +17,7 @@
 If you installed manually, put the file into `.local/share/konsole/`.
 2. Open Konsole and select Settings -> Manage Profiles -> Edit Profile -> Appearance, then select Rosé Pine.
 
-## Screenshots
+## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
