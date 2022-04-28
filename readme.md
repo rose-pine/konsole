@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Move the desired theme to Konsole's config folder
-   a. If Konsole came pre-installed, use `~/.kde4/share/apps/konsole` or `~/.kde/share/apps/konsole`
-   b. Otherwise use `~/.local/share/konsole`
+1. Move the desired theme to Konsole's config folder\
+  a. If Konsole came pre-installed, use `~/.kde4/share/apps/konsole` or `~/.kde/share/apps/konsole`\
+  b. Otherwise use `~/.local/share/konsole`
 2. Within Konsole, select Settings &rarr; Manage Profiles &rarr; Edit Profile &rarr; Appearance, and select Rosé Pine
 
 ## Gallery
