@@ -1,0 +1,78 @@
+# --- special colors ---
+
+[Background]
+Color=$base
+
+[BackgroundIntense]
+Color=$base
+
+[Foreground]
+Color=$text
+
+[ForegroundIntense]
+Color=$text
+Bold=true
+
+# --- standard colors ---
+
+# black
+[Color0]
+Color=$overlay
+
+[Color0Intense]
+Color=$muted
+
+# red
+[Color1]
+Color=$love
+
+[Color1Intense]
+Color=$love
+
+# green
+[Color2]
+Color=$pine
+
+[Color2Intense]
+Color=$pine
+
+# yellow
+[Color3]
+Color=$gold
+
+[Color3Intense]
+Color=$gold
+
+# blue
+[Color4]
+Color=$foam
+
+[Color4Intense]
+Color=$foam
+
+# magenta
+[Color5]
+Color=$iris
+
+[Color5Intense]
+Color=$iris
+
+# cyan
+[Color6]
+Color=$rose
+
+[Color6Intense]
+Color=$rose
+
+# white
+[Color7]
+Color=$text
+
+[Color7Intense]
+Color=$text
+
+# --- general options ---
+
+[General]
+Description=$name – $description
+Opacity=1
